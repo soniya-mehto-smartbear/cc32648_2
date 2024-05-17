@@ -2,5 +2,5 @@
 	path = Submodile1
 	url = https://github.com/soniya-mehto-smartbear/cc32648Submodule.git
 [submodule "cc32648Submodule2"]
-	path = cc32648Submodule2
+	path = Submodule2
 	url = https://github.com/soniya-mehto-smartbear/cc32648Submodule2.git
